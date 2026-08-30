@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Junior Martins!
 
 💻 Estudante de Técnico em Informática  
-🏫 IF Sertão-PE  
+🏫 IF Sertão-PB
 📍 Sousa, Paraíba, Brasil  
 🚀 Programação e Tecnologia  
 🔧 Montagem, manutenção e conserto de computadores  
